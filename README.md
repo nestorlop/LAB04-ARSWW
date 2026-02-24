@@ -85,6 +85,8 @@ npm run dev
 ## Pruebas 
 Para las pruebas se corre el proyecto y se crea un nuevo plano y dibujamos, a su vez vamos comprobando con otro que vamos a abrir en una nueva pestaña
 ![Resultado pruebas](Images/image.png)
+### Video prueba
+https://youtu.be/ePVd4lLVToI
 
 ## Decisiones Técnicas
 
