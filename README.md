@@ -1,4 +1,4 @@
-# BluePrints RealTime - LAB04-ARSWW
+# BluePrints RealTime - LAB04-ARSW
 
 ## Descripción
 
@@ -82,10 +82,13 @@ npm run dev
 - Tiempo real con Socket.IO
 - Soporte para STOMP (Spring Boot)
 
-## 🔧 Decisiones Técnicas
+## Pruebas 
+Para las pruebas se corre el proyecto y se crea un nuevo plano y dibujamos, a su vez vamos comprobando con otro que vamos a abrir en una nueva pestaña
+![Resultado pruebas](Images/image.png)
+
+## Decisiones Técnicas
 
 - **Socket.IO:** Elegido como tecnología principal por su simplicidad y integración con Node.js
-- **Almacenamiento:** En memoria (no persistente)
 - **Rooms:** Aislamiento por autor y nombre de plano
 
 ## Limitaciones
@@ -101,5 +104,5 @@ npm run dev
 
 ---
 
-**Autor:** [Nestor David Lopez Castañeda]
+**Autor:** Nestor David Lopez Castañeda
 **Fecha:** 2026
